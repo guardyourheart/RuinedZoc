@@ -105,8 +105,8 @@ def prepare_environment():
 
 model_filenames = [
     (
-        "sd_xl_base_1.0_0.9vae.safetensors",
-        "https://huggingface.co/stabilityai/stable-diffusion-xl-base-1.0/resolve/main/sd_xl_base_1.0_0.9vae.safetensors",
+        "haveallsdxl_v10.safetensors",
+        "https://civitai.com/api/download/models/490164",
     ),
 ]
 
